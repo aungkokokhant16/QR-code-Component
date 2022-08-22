@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+$font-family-sans-serif: 'Outfit', sans-serif;
+$border-radius: 1rem;
+$card-border-radius:                $border-radius;
+$primary: hsl(0, 0%, 100%);
+$secondary: hsl(212, 45%, 89%);
+$warning: hsl(220, 15%, 55%);
+$danger: hsl(218, 44%, 22%);
+@import "../node_modules/bootstrap/scss/bootstrap";
